@@ -1,0 +1,29 @@
+.landing-root{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    justify-content: center;
+    background-color: rgb(253, 217, 175);
+}
+
+.name{
+    /* margin-top: -200px; */
+    font-size: 40px;
+    color:rgb(29, 29, 29);
+    font-weight: 700;
+    font-family: Abril;
+    word-spacing: 5px;
+}
+
+.before{
+    height:20px;
+    width:600px;
+    background-color: black;
+}
+.after{
+    height:20px;
+    width:600px;
+    background-color: black;
+}
